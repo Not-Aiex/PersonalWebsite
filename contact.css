@@ -70,3 +70,10 @@ label {
   grid-column: 1;
   margin-top: 0.5ch;
 }
+
+footer {
+  background-color: #83d5f6;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
